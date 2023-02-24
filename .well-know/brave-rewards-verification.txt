@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tpcgold.github.io
+Token: 601a3e449e03807d61a9ba67283437937070358f1f1026ecd7f79611c29130b8
